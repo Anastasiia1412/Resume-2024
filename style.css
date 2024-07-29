@@ -129,3 +129,12 @@ footer {
 .footer-element:last-child {
   margin-right: 0;
 }
+
+.pet-description {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.pets-link:hover {
+  color: darkgreen;
+}
